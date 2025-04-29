@@ -1,6 +1,6 @@
 # af3cli
 A command-line interface and Python library for generating [AlphaFold3](https://github.com/google-deepmind/alphafold3) input files.
-
+微信原文： https://mp.weixin.qq.com/s?__biz=MzkwODYyMDQwOA==&mid=2247487085&idx=1&sn=2d5c2cfa162a1f93ce1a4a45ffb2946b&chksm=c120da552d170ecc2eb706e2afe4c47ab3716ab492b14d969e0b8939f745c1b5598be9bbf74c&mpshare=1&scene=1&srcid=0415nGfL28tYXwLcuruI9BhX&sharer_shareinfo=fb64a9b5757b1aaac9ad7da12aa2394d&sharer_shareinfo_first=fb64a9b5757b1aaac9ad7da12aa2394d#rd
 ## Installation
 
 We recommend using [uv](https://github.com/astral-sh/uv) to manage your installation.
